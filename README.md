@@ -23,11 +23,11 @@ A cópia dos códigos é feita por sua conta e risco, já que **NÃO** irei me r
 
 Em desenvolvimento...
 
-## Período 5
+### **Período 5**
 
 - [Laboratório de Projeto de Algoritmos (LPA)](https://github.com/Malfunction-Machine/LPA-Papers)
 
-## Período 6
+### **Período 6**
 
 - [Computação Gráfica](https://github.com/Malfunction-Machine/Computacao-Grafica)
 - [Computação Paralela](https://github.com/Malfunction-Machine/Computacao-Paralela)
@@ -35,6 +35,6 @@ Em desenvolvimento...
 - [Processamento de Imagens](https://github.com/Malfunction-Machine/Processamento-de-Imagens)
 - [Redes de Computadores I](https://github.com/Malfunction-Machine/Redes-de-Computadores-I)
 
-## Período 7
+### **Período 7**
 
 - [Inteligência Artificial](https://github.com/Malfunction-Machine/Inteligencia-Artificial)
